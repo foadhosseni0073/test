@@ -1,3 +1,7 @@
 test3 dirst line!
 add line for test3 q16
+<<<<<<< HEAD
 add lin in q25 in brach master
+=======
+add lin in q25
+>>>>>>> exam
